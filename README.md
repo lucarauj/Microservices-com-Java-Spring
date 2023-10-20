@@ -18,7 +18,7 @@
 
 <hr>
 
-# Parte I - User
+# Parte I - Microservice User
 
 <br>
 
@@ -34,6 +34,9 @@
 
 ## Anotações
 
+- @Bean
+- @Component
+- @Config
 - @Email
 - @Entity
 - @GeneratedValue(strategy = GenerationType.AUTO)
@@ -46,11 +49,12 @@
 - @Table
 - @Transactional
 - @Valid
+- @Value
 
 <hr>
 <br>
 
-# Parte II - E-mail
+# Parte II - Microservice E-mail
 
 <br>
 
@@ -67,7 +71,11 @@
 
 ## Anotações
 
+- @Bean
+- @Component
 - @Configuration
+- @Value
+
 
 
 
