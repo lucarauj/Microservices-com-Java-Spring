@@ -18,7 +18,7 @@
 
 <hr>
 
-# Parte 1 - User
+# Parte I - User
 
 <br>
 
@@ -29,6 +29,43 @@
 - PostgreSQL Driver
 - Validation
 - Spring for RabbitMQ
+
+<br>
+
+## Anotações
+
+- @Email
+- @Entity
+- @GeneratedValue(strategy = GenerationType.AUTO)
+- @Id
+- @NotBlank
+- @PostMapping
+- @RestController
+- @RequestBody
+- @Service
+- @Table
+- @Transactional
+- @Valid
+
+
+
+
+
+<hr>
+<br>
+
+# Parte II - E-mail
+
+<br>
+
+## Dependências
+
+- Spring Web
+- Spring Data JPA
+- PostgreSQL Driver
+- Validation
+- Spring for RabbitMQ
+- Java Mail Sender
 
 <br>
 
