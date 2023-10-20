@@ -47,10 +47,6 @@
 - @Transactional
 - @Valid
 
-
-
-
-
 <hr>
 <br>
 
@@ -71,7 +67,7 @@
 
 ## Anotações
 
-
+- @Configuration
 
 
 
