@@ -1,6 +1,44 @@
-## Microservices com Java Spring
+# Microservices com Java Spring
 
 <hr>
+
+## Tecnologias utilizadas
+
+- Java 17
+- Maven
+- Spring Boot
+- Spring Data JPA
+- Spring Validation
+- Spring AMQP
+- Spring Mail
+- PostgreSQL
+- Rabbit MQ
+- Cloud AMQP
+- SMTP Gmail
+
+<hr>
+
+# Parte 1 - User
+
+<br>
+
+## Dependências
+
+- Spring Web
+- Spring Data JPA
+- PostgreSQL Driver
+- Validation
+- Spring for RabbitMQ
+
+<br>
+
+## Anotações
+
+
+
+
+
+
 
 
 
