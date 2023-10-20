@@ -14,7 +14,7 @@
 - PostgreSQL
 - Rabbit MQ
 - Cloud AMQP
-- SMTP Gmail
+- SMTP Mailtrap
 
 <hr>
 
@@ -72,36 +72,12 @@
 ## Anotações
 
 - @Bean
+- @Column
 - @Component
 - @Configuration
+- @Service
+- @Transactional
 - @Value
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br>
 
