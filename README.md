@@ -17,7 +17,7 @@
 - Spring Mail
 - PostgreSQL
 - Rabbit MQ
-- Cloud AMQP
+- Cloud AMQP [(site)](https://api.cloudamqp.com/)
 - SMTP Mailtrap
 
 <hr>
